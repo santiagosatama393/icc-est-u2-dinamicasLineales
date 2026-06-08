@@ -7,3 +7,8 @@
 
 ---
 
+## 1 implementacion 
+
+**descripcion:** se utilizo linkedList,colas y pilas en cada una de las mismas se realizando de ejemplos de peekj(),pop();isEmpy();size();
+
+![alt text](image.png)
